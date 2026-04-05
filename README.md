@@ -16,10 +16,10 @@ I'm building a suite of CLI tools that make git actually enjoyable. Install them
 | [`git standup`](https://github.com/LarsenCundric/git-standup-cli) | What did I do yesterday? Smart activity log with dedupe |
 | [`git nuke`](https://github.com/LarsenCundric/git-nuke-cli) | Delete a branch everywhere — local, remote, tracking refs |
 | [`git undo`](https://github.com/LarsenCundric/smart-git-undo) | Type `git undo` and it figures out what to reverse |
-| [`git flex`](https://github.com/LarsenCundric/git-flex) | Show off your coding stats — terminal cards and shareable SVGs |
 
 #### Other projects
 
+- [git-flex](https://github.com/LarsenCundric/git-flex) — show off your coding stats with terminal cards and shareable SVGs
 - [todos-finder](https://github.com/LarsenCundric/todos-finder) — scan any codebase for forgotten TODOs with git blame and triage mode
 - [port-whisperer](https://github.com/LarsenCundric/port-whisperer) — beautiful CLI to see what's running on your ports
 - [slopcop](https://github.com/LarsenCundric/slopsquat-guard) — catches malicious AI-hallucinated packages before you install them
