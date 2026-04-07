@@ -19,7 +19,7 @@ I'm building a suite of CLI tools that make git actually enjoyable. Install them
 
 #### Other projects
 
-- [devclean](https://github.com/LarsenCundric/devclean) — find and nuke build artifacts, node_modules, .venv, and caches across all your projects
+- [dev-purge](https://github.com/LarsenCundric/dev-purge) — find and nuke build artifacts, node_modules, .venv, and caches across all your projects
 - [git-flex](https://github.com/LarsenCundric/git-flex) — show off your coding stats with terminal cards and shareable SVGs
 - [todos-finder](https://github.com/LarsenCundric/todos-finder) — scan any codebase for forgotten TODOs with git blame and triage mode
 - [port-whisperer](https://github.com/LarsenCundric/port-whisperer) — beautiful CLI to see what's running on your ports
