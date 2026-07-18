@@ -6,6 +6,8 @@ Founding Engineer at [Browser Use](https://browser-use.com) building infrastruct
 
 Previously freelancing from Southeast Asia. Now in San Francisco.
 
+More at [cundric.com](https://www.cundric.com).
+
 #### Git power tools
 
 I'm building a suite of CLI tools that make git actually enjoyable. Install them all at once with [`git-enhanced`](https://github.com/LarsenCundric/git-enhanced), or pick what you need:
@@ -23,13 +25,16 @@ I'm building a suite of CLI tools that make git actually enjoyable. Install them
 - [git-flex](https://github.com/LarsenCundric/git-flex) — show off your coding stats with terminal cards and shareable SVGs
 - [todos-finder](https://github.com/LarsenCundric/todos-finder) — scan any codebase for forgotten TODOs with git blame and triage mode
 - [port-whisperer](https://github.com/LarsenCundric/port-whisperer) — beautiful CLI to see what's running on your ports
-- [slopcop](https://github.com/LarsenCundric/slopsquat-guard) — catches malicious AI-hallucinated packages before you install them
+- [slopcop](https://github.com/LarsenCundric/slopcop) — catches malicious AI-hallucinated packages before you install them
+- [write-it-down.com](https://write-it-down.com) — simple personal finance tracker, 2.6k users
 
 #### Writing
 
-- [How We Built Secure, Scalable Agent Sandbox Infrastructure](https://x.com/larsencc/status/2027225210412470668)
-- [Nothing Matters](https://x.com/larsencc/status/2033370763617869983)
+- [How we built secure, scalable agent infra on AWS](https://x.com/larsencc/status/2076744742776488351) — millions of untrusted agents, each in a private micro-VM with zero credentials
+- [Everything I got wrong in the last 4,000 commits](https://x.com/larsencc/status/2051742650525716896) — every mistake from a year as the first engineer at Browser Use, in chronological order
+- [How we built secure, scalable agent sandbox infrastructure](https://x.com/larsencc/status/2027225210412470668) — from AWS Lambda to Unikraft micro-VMs with a control plane architecture
+- [Nothing matters](https://x.com/larsencc/status/2033370763617869983) — I spent weeks preparing for my leave, but nothing prepared me for this
 
 #### Find me
 
-[X](https://x.com/larsencc) · [LinkedIn](https://www.linkedin.com/in/larsencundric/) · [Threads](https://www.threads.com/@larsencundric)
+[cundric.com](https://www.cundric.com) · [X](https://x.com/larsencc) · [LinkedIn](https://www.linkedin.com/in/larsencundric/) · [Threads](https://www.threads.com/@larsencundric)
