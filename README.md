@@ -8,6 +8,10 @@ Previously freelancing from Southeast Asia. Now in San Francisco.
 
 More at [cundric.com](https://www.cundric.com).
 
+#### AI research experiments
+
+I initiated and guided [three research experiments with Grok Bot](https://github.com/LarsenCundric/ai-research-experiments), which generated the manuscripts, code, and analyses. The papers and supporting artifacts are public for expert review. I haven't independently verified the findings. Researchers interested in reviewing or developing the work for publication are welcome to get in touch.
+
 #### Git power tools
 
 I'm building a suite of CLI tools that make git actually enjoyable. Install them all at once with [`git-enhanced`](https://github.com/LarsenCundric/git-enhanced), or pick what you need:
